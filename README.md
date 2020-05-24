@@ -1,2 +1,3 @@
 # hello-world
-My own repo for notes
+
+Formalising my understanding of GitHub.
